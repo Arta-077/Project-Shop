@@ -22,11 +22,7 @@ class Foroshghah(Moshtari):
 
     list_mahsolat = {
         "chips": [{"1.mazmaz": [27000, 100]}, {"2.chitoz": [30000, 50]}],
-        "pofak": [
-            {"1.mazmaz": [29700, 0]},
-            {"2.chitoz": [430000, 120]},
-            {"3.chakelz": [20000, 70]},
-        ],
+        "pofak": [{"1.mazmaz": [29700, 0]}, {"2.chitoz": [430000, 120]}, {"3.chakelz": [20000, 70]}],
         "shir": [{"1.kalleh": [28000, 30]}, {"2.pegah": [30000, 50]}],
         "mast": [{"1.mihan": [115000, 40]}, {"2.chopan": [100000, 30]}],
     }
